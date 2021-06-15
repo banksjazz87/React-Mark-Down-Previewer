@@ -1,2 +1,3 @@
 # React-Mark-Down-Previewer
-freeCodeCamp project
+This is a project that I created for freeCodeCamp, primarily using react.js.
+
